@@ -1,2 +1,3 @@
 # Kubernetes Boot.dev
-This is the initial creation of the page
+We have three services, api, web and a crawler.
+We configure them to run on Kubernetes cluster with their env
